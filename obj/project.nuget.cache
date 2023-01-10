@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "Q2NIWKyb9VHQBhPdC0GDKXM0XkCYdmZdq2ChtbP+m8bQ4i0zvgw+7bf12uPp1qC6Wo8BglvCSlo2QxFa6lG28g==",
+  "success": true,
+  "projectFilePath": "D:\\EVOKE - SUPRAJA\\learnings-master\\Dockersampleconfig.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SUPRAJA REDDY\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512",
+    "C:\\Users\\SUPRAJA REDDY\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\SUPRAJA REDDY\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\SUPRAJA REDDY\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\SUPRAJA REDDY\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
